@@ -78,8 +78,8 @@ The alignment process usually takes approximately 12 minutes in a Dell laptop wi
 
 Please note that in the "align.sh" script, you can try different combinations of values of the parameters such as "querysel.q_to_d_ratio", "querysel.lambda", "numtranslated_words" etc.
 
-***If you are using this tool, please cite the following paper
+***If you are using this tool, please cite the following paper:
 
-Lohar, Pintu, Ganguly, Debasis , Afli, Haithem , Way, Andy  and Jones, Gareth J.F.  (2016) FaDA: fast document aligner using word embedding. Prague Bulletin of Mathematical Linguistics (106). pp. 169-179. ISSN 1804-0462
+_Lohar, Pintu, Ganguly, Debasis , Afli, Haithem , Way, Andy  and Jones, Gareth J.F.  (2016) FaDA: fast document aligner using word embedding. Prague Bulletin of Mathematical Linguistics (106). pp. 169-179. ISSN 1804-0462_
 
 # FaDA
