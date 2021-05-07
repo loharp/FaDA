@@ -76,5 +76,9 @@ chmod +x align.sh
 The final output will also be evaluated (check the log file to see the precision, recall and F-score)
 The alignment process usually takes approximately 12 minutes in a Dell laptop with Intel core-i5 processor and 8-GB RAM. It takes much less time (around 5 minutes in the same machine) when the textSim variable is set to 1.0
 
-***Note: in the "align.sh" script, you can try different combinations of values of the parameters such as "querysel.q_to_d_ratio", "querysel.lambda", "numtranslated_words" etc.
+Please note that in the "align.sh" script, you can try different combinations of values of the parameters such as "querysel.q_to_d_ratio", "querysel.lambda", "numtranslated_words" etc.
+
+***If you are using this tool, please cite the following paper
+Lohar, Pintu, Ganguly, Debasis , Afli, Haithem , Way, Andy  and Jones, Gareth J.F.  (2016) FaDA: fast document aligner using word embedding. Prague Bulletin of Mathematical Linguistics (106). pp. 169-179. ISSN 1804-0462
+
 # FaDA
