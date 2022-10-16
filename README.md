@@ -2,7 +2,7 @@
 =========
 A bilingual comparable document alignment tool
 
-Project Homepage: https://github.com/gdebasis/cldocalign
+Project Homepage: https://github.com/loharp/FaDA
 
 
 GENERAL INFO
